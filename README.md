@@ -1,12 +1,13 @@
 <div align="center">
   
   <samp>
+    =========
     :herb:
     :snowman:
     Profile
     :snowman:
     :herb:
-    
+    =========
   </samp>
   <br></br>
   
