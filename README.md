@@ -4,3 +4,4 @@
   </a>
   
 [![Badge](https://cp-logo.vercel.app/atcoder/hirafish)](https://atcoder.jp/users/hirafish) 
+[![Badge](https://cp-logo.vercel.app/codeforces/hirafish)](https://codeforces.com/profile/hirafish) 
