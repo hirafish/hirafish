@@ -22,7 +22,8 @@
   -:ocean: Atoa　　   <br>
   -:shell: Kobe Animal Kingdom　
   -:whale: ECHIZEN MATSUSHIMA AQUARIUM　
-  -:penguin: Port of Nagoya Public Aquarium　
+  -:fish: Port of Nagoya Public Aquarium　
+  -:penguin: Sunshine Aquarium
   </samp>
 
 </div>
