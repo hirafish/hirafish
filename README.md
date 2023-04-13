@@ -24,7 +24,7 @@
   -:whale: ECHIZEN MATSUSHIMA AQUARIUM　
   -:fish: Port of Nagoya Public Aquarium　
   -:penguin: Sunshine Aquarium
-  -:dolfin: aqua park SHINAGAWA
+  -:dolin: aqua park SHINAGAWA
   </samp>
 
 </div>
