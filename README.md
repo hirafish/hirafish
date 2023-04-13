@@ -23,7 +23,7 @@
   -:shell: Kobe Animal Kingdom　
   -:whale: ECHIZEN MATSUSHIMA AQUARIUM　
   -:fish: Port of Nagoya Public Aquarium　
-  -:penguin: Sunshine Aquarium
+  -:penguin: Sunshine Aquarium  
   -🐬 aqua park SHINAGAWA
   </samp>
 
