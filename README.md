@@ -24,7 +24,8 @@
   -:whale: ECHIZEN MATSUSHIMA AQUARIUM　
   -:fish: Port of Nagoya Public Aquarium　<br>
   -:penguin: Sunshine Aquarium  
-  -🐬 aqua park SHINAGAWA
+  -🐬 aqua park SHINAGAWA  
+  -🏝️ NIFREL
   </samp>
 
 </div>
