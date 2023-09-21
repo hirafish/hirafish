@@ -25,7 +25,8 @@
   -:fish: Port of Nagoya Public Aquarium　<br>
   -:penguin: Sunshine Aquarium  
   -🐬 aqua park SHINAGAWA  
-  -🏝️ NIFREL
+  -🏝️ NIFREL  
+  - 🪸Sumida Aquarium  
   </samp>
 
 </div>
