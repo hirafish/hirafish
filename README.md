@@ -1,19 +1,21 @@
 <div align="center">
   
   <samp>
+    <h3>
     =========
     :herb:
     :snowman:
     Profile
     :snowman:
     :herb:
-    =========
+    ========= 
   </samp>
+    </h3>
   <br></br>
   
    [![Badge](https://cp-logo.vercel.app/atcoder/hirafish)](https://atcoder.jp/users/hirafish)　[![Badge](https://cp-logo.vercel.app/codeforces/hirafish)](https://codeforces.com/profile/hirafish)
   
-  <img src="https://github.com/hirafish/hirafish/blob/main/icon-me.png" width="75"> <img src="https://github.com/hirafish/hirafish/blob/main/happy-penguin.gif" width="175"><img src="https://github.com/hirafish/hirafish/blob/main/hatoaruki-gif.gif" width="75"> <img src="https://github.com/hirafish/hirafish/blob/main/icon-me.png" width="75">
+  <img src="https://github.com/hirafish/hirafish/blob/main/icon-me.png" width="75"> <img src="https://github.com/hirafish/hirafish/blob/main/happy-penguin.gif" width="165"><img src="https://github.com/hirafish/hirafish/blob/main/hatoaruki-gif.gif" width="75"> <img src="https://github.com/hirafish/hirafish/blob/main/icon-me.png" width="75">
 
   <samp>
   -:fish: Osaka Aquarium KAIYUKAN　　
